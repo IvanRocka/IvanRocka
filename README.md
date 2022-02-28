@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanRocka
-- 👀 I’m interested in ML, DL and data analyis.
+- 👀 I’m interested in ML, DL and data analysis.
 - 📫 How to reach me: ivan.baukin@mail.ru
 <!---
 IvanRocka/IvanRocka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
